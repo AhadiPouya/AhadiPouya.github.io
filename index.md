@@ -2,9 +2,7 @@
 layout: default
 ---
 
-<img src="/assets/img/pouya.jpg" width="150" style="border-radius: 100px;"/>
-
-## About Me
+## About
 
 I am Pouya Ahadi, a Ph.D. candidate in Machine Learning at Georgia Tech, advised by Dr. Kamran Paynabar. My research focuses on active learning, deep learning for inverse problems, and natural language processing with large language models.
 
