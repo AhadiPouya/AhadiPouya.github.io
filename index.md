@@ -2,26 +2,28 @@
 layout: default
 ---
 
-## About
+<img src="/assets/img/Pouya_Ahadi_profile.jpg" width="150" style="border-radius: 100px;"/>
 
-I am Pouya Ahadi, a Ph.D. candidate in Machine Learning at Georgia Tech, advised by Dr. Kamran Paynabar. My research focuses on active learning, deep learning for inverse problems, and natural language processing with large language models.
+## About Me
 
-In Summer 2025, I will join Intuitive Surgical as an AI/ML intern to explore generative models and LLMs for surgical data applications.
+I am **Pouya Ahadi**, a Ph.D. candidate in **Machine Learning** at the **Georgia Institute of Technology**, advised by Dr. Kamran Paynabar. My research focuses on active learning, deep learning for inverse problems, and natural language processing using large language models (LLMs). I am particularly interested in building data-efficient machine learning systems for scientific and industrial applications.
 
-## Publications
+My work spans various domains, including predictive monitoring in advanced manufacturing, anomaly detection in 3D lattice structures, and text classification using prompt-optimized LLMs. I have collaborated with industrial partners such as Ford Motor Company, where I developed active learning frameworks for warranty claim classification and fine-tuned large language models like PaLM 2 and Gemini for customer feedback analysis.
 
-**Latent Space Modeling for Bayesian Optimization Using Invertible Neural Networks**  
-*P. Ahadi, K. Paynabar* – Working Paper
+In Summer 2025, I will join **Intuitive Surgical** as an AI/ML Data Science Intern. There, I will explore the integration of generative AI into surgical data workflows and investigate the use of LLMs for surgical documentation and decision support.
 
-**Graphormer for Predictive Monitoring in 3D Lattice Structures**  
-*P. Ahadi, K. Paynabar* – Working Paper
+---
 
-**Optimal Labeler Assignment for Active Learning with Imperfect Labels**  
-*P. Ahadi et al.* – Submitted to JMLR
+### 📍 Location  
+Sunnyvale, CA (Summer 2025) | Atlanta, GA (During Ph.D.)
 
-**Sequential Sampling for Functional Estimation via Sieve**  
-*A. Benevento, P. Ahadi et al.* – QREI, 2024
+### 🎓 Education  
+- **Ph.D.** in Machine Learning, *Georgia Institute of Technology*  
+- **M.S.** in Industrial Engineering, *Oklahoma State University*  
+- **B.S.** in Industrial Engineering, *Sharif University of Technology*
 
-**Expected Cross Value for Mate Selection Problems**  
-*P. Ahadi et al.* – Nature Heredity, 2024
+### 🔗 Links  
+- [LinkedIn](https://www.linkedin.com/in/pouya-ahadi-06947712b)  
+- 📧 pouya.ahadi@gatech.edu
+
 
