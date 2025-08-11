@@ -5,7 +5,7 @@ title: Pouya Ahadi
 
 ## About Me
 
-I am a **PhD candidate in Machine Learning** at the Georgia Institute of Technology (expected May 2026), advised by Dr. Kamran Paynabar. I design **data-efficient AI systems** that combine research depth with industry-ready solutions, specializing in **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, **Bayesian Optimization**, and **Deep Learning for Inverse Problems**.  
+I am a **PhD candidate in Machine Learning** at the Georgia Institute of Technology, advised by Dr. Kamran Paynabar. I design **data-efficient AI systems** that combine research depth with industry-ready solutions, specializing in **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, **Bayesian Optimization**, and **Deep Learning for Inverse Problems**.  
 
 During my internship with **Intuitive Surgical** (Summer 2025), I:  
 - Engineered **LLM-powered systems** integrating **knowledge graphs** and **vector embeddings** for intelligent retrieval.  
@@ -25,7 +25,7 @@ In my academic research, I:
 
 ## Education
 
-- **PhD in Machine Learning**, Georgia Institute of Technology — *Expected May 2026*  
+- **PhD in Machine Learning**, Georgia Institute of Technology — *Expected Graduation: May 2026*  
 - **MS in Industrial Engineering**, Oklahoma State University  
 - **BS in Industrial Engineering**, Sharif University of Technology  
 
