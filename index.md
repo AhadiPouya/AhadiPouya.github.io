@@ -1,27 +1,38 @@
 ---
 layout: default
+title: Pouya Ahadi
 ---
 
 ## About Me
 
-I am **Pouya Ahadi**, a Ph.D. candidate in **Machine Learning** at the **Georgia Institute of Technology**, advised by Dr. Kamran Paynabar. My research focuses on active learning, deep learning for inverse problems, and natural language processing using large language models (LLMs). I am particularly interested in building data-efficient machine learning systems for scientific and industrial applications.
+I am a **PhD candidate in Machine Learning** at the Georgia Institute of Technology (expected May 2026), advised by Dr. Kamran Paynabar. I design **data-efficient AI systems** that combine research depth with industry-ready solutions, specializing in **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, **Bayesian Optimization**, and **Deep Learning for Inverse Problems**.  
 
-My work spans various domains, including predictive monitoring in advanced manufacturing, anomaly detection in 3D lattice structures, and text classification using prompt-optimized LLMs. I have collaborated with industrial partners such as Ford Motor Company, where I developed active learning frameworks for warranty claim classification and fine-tuned large language models like PaLM 2 and Gemini for customer feedback analysis.
+During my internship with **Intuitive Surgical** (Summer 2025), I:  
+- Engineered **LLM-powered systems** integrating **knowledge graphs** and **vector embeddings** for intelligent retrieval.  
+- Developed **RAG pipelines** combining multi-source structured and unstructured data for **real-time, context-aware AI applications**.  
+- Designed **end-to-end AI workflows** with **agent-based orchestration**, enabling automated data ingestion, retrieval, and reasoning across heterogeneous sources.  
 
-In Summer 2025, I will join **Intuitive Surgical** as an AI/ML Data Science Intern. There, I will explore the integration of generative AI into surgical data workflows and investigate the use of LLMs for surgical documentation and decision support.
+Previously, with **Ford Motor Company**, I:  
+- Developed **prompt-optimized LLMs** (PaLM 2, Gemini) with **active learning** loops for customer text classification.  
+- Created hierarchical warranty claim classification systems using **uncertainty-based sampling** and **multi-level model integration**.  
+
+In my academic research, I:  
+- Designed **Graphormer-based anomaly detection** for 3D lattice structures in advanced manufacturing.  
+- Built **Invertible Neural Networks (INNs)** for **latent-space Bayesian Optimization** of high-dimensional functional responses.  
+- Proposed robust active learning strategies for noisy labels.  
 
 ---
 
-### 📍 Location  
-Sunnyvale, CA (Summer 2025) | Atlanta, GA (During Ph.D.)
+## Education
 
-### 🎓 Education  
-- **Ph.D.** in Machine Learning, *Georgia Institute of Technology*  
-- **M.S.** in Industrial Engineering, *Oklahoma State University*  
-- **B.S.** in Industrial Engineering, *Sharif University of Technology*
+- **PhD in Machine Learning**, Georgia Institute of Technology — *Expected May 2026*  
+- **MS in Industrial Engineering**, Oklahoma State University  
+- **BS in Industrial Engineering**, Sharif University of Technology  
 
-### 🔗 Links  
-- [LinkedIn](https://www.linkedin.com/in/pouya-ahadi-06947712b)  
-- 📧 pouya.ahadi@gatech.edu
+---
 
+## Contact
 
+- **Location**: Atlanta, GA  
+- **LinkedIn**: [pouya-ahadi-06947712b](https://www.linkedin.com/in/pouya-ahadi-06947712b)  
+- **Email**: pouya.ahadi@gatech.edu
