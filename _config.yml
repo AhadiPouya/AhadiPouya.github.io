@@ -3,6 +3,7 @@ description: "Ph.D. candidate in Machine Learning at Georgia Tech"
 theme: jekyll-theme-minimal
 logo: /assets/img/Pouya_Ahadi_profile.jpg
 show_downloads: false
+github: false
 
 # Social links
 linkedin_username: pouya-ahadi-06947712b
